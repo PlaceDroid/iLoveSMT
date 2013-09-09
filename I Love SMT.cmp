@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-16 BZR 4016)-stable date = 5/21/2013 10:31:46 PM
+
+BeginCmp
+TimeStamp = /5196A4C3;
+Reference = BT1;
+ValeurCmp = CR2032;
+IdModule  = S8211-46R;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A6C4;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A4A2;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A4CB;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A74F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A49C;
+Reference = R1;
+ValeurCmp = 1M;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A6FE;
+Reference = R2;
+ValeurCmp = 200;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5196A713;
+Reference = R3;
+ValeurCmp = 200;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /519C44C4;
+Reference = R4;
+ValeurCmp = 10K;
+IdModule  = 0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /519C38E4;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = SOIC-8;
+EndCmp
+
+EndListe
